@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://people.ac.upc.edu/sg/</loc>
+  <lastmod>2012-12-27T18:24:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://people.ac.upc.edu/sg/shrikanth_ganapathy_cv.pdf</loc>
+  <lastmod>2012-12-27T18:27:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://people.ac.upc.edu/sg/shrikanth_ganapathy_research_summary.pdf</loc>
+  <lastmod>2012-12-27T18:31:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
